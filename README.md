@@ -182,9 +182,8 @@ NGO Dashboard─┘         │                    │
 
 ## 👨‍💻 Author
 
-**Danish** — 4th Semester, DAA + DevOps Project  
+**Danish** — AI/ML Engineer
 GitHub: [@danishhhh05](https://github.com/danishhhh05)
-
 ---
 
 ## 📄 License
