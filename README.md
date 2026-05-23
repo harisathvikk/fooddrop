@@ -182,8 +182,9 @@ NGO Dashboard─┘         │                    │
 
 ## 👨‍💻 Author
 
-**Danish** — AI/ML Engineer
-GitHub: [@danishhhh05](https://github.com/danishhhh05)
+
+**Hari Sathvik** —
+ AI/ML Engineer GitHub: [@harisathvikk](https://github.com/harisathvikk)
 ---
 
 ## 📄 License
