@@ -77,7 +77,7 @@ The Nearest-Neighbor + 2-opt heuristic achieves an approximation ratio of **≤ 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/danishhhh05/fooddrop.git
+git clone https://github.com/harisathvikk/fooddrop.git
 cd fooddrop
 ```
 
